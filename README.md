@@ -56,6 +56,9 @@ Data Analysis Expressions (DAX) library was used to calculate all financial metr
 The final dashboard was split into two parts:
 * **Main Dashboard:** Includes all financial metrics, Revenue and Expenses, Operational and Marketing Cost, and Assets and Liabilities.
 * **Country Comparison:** Additional dashboard containing several multiple line chart to compare countries based on their Gross and Net Profit in detail.
+<br>
+
+[Final Dashboard](https://github.com/rafifrzd/Emencee-Finance-Dashboard/blob/main/Dashboard/Emencee%20Financial%20Dashboard.pbix)
 
 <br>
 
@@ -74,6 +77,7 @@ The final dashboard was split into two parts:
   Picture 4. Country Comparison Dashboard
 </p>
 <br>
+
 
 
 
