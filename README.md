@@ -18,7 +18,7 @@ The management board wants to see the financial details gained from the sales da
 
 <br>
 
----
+
 
 ## **Data Modelling**
 
@@ -34,7 +34,7 @@ Relationship between all the tables were created in order to make the calculatio
 </p>
 <br>
 
----
+
 
 ## **Financial Calculation using DAX**
 
@@ -58,7 +58,7 @@ Data Analysis Expressions (DAX) library was used to calculate all financial metr
 </p>
 <br>
 
----
+
 
 ## **Final Dashboard**
 
