@@ -24,7 +24,6 @@ Relationship between all the tables were created in order to make the calculatio
   Picture 1. Data Modelling
 </p>
 <br>
-<br>
 
 ---
 
@@ -48,7 +47,6 @@ Data Analysis Expressions (DAX) library was used to calculate all financial metr
   <kbd><img src="Asset/2.%20Financial%20Calculation.jpeg" width=800px> </kbd> <br>
   Picture 2. Financial Metric Calculation Example
 </p>
-<br>
 <br>
 
 ---
