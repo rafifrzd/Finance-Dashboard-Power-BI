@@ -17,9 +17,18 @@ Relationship between all the tables were created in order to make the calculatio
 
 <br>
 
+**Data Modelling Result:**<br>
+
+<p align="center">
+  <kbd><img src="Asset/1.%20Data%20Modelling.jpeg" width=800px> </kbd> <br>
+  Picture 1. Data Modelling
+</p>
+<br>
+<br>
+
 ---
 
-## **Data Modelling**
+## **Financial Calculation using DAX**
 
 Data Analysis Expressions (DAX) library was used to calculate all financial metrics needed by the management board, including:
 * Sales Revenue
@@ -33,6 +42,15 @@ Data Analysis Expressions (DAX) library was used to calculate all financial metr
 
 <br>
 
+**DAX Calculation Example:**<br>
+
+<p align="center">
+  <kbd><img src="Asset/2.%20Financial%20Calculation.jpeg" width=800px> </kbd> <br>
+  Picture 2. Financial Metric Calculation Example
+</p>
+<br>
+<br>
+
 ---
 
 ## **Final Dashboard**
@@ -41,6 +59,23 @@ The final dashboard was split into two parts:
 * **Main Dashboard:** Includes all financial metrics, Revenue and Expenses, Operational and Marketing Cost, and Assets and Liabilities.
 * **Country Comparison:** Additional dashboard containing several multiple line chart to compare countries based on their Gross and Net Profit in detail.
 
+<br>
+
+**Main Dashboard:**<br>
+
+<p align="center">
+  <kbd><img src="Asset/3.1%20Main%20Dashboard.jpeg" width=800px> </kbd> <br>
+  Picture 3. Main Financial Dashboard
+</p>
+<br>
+
+**Country Comparison:**<br>
+
+<p align="center">
+  <kbd><img src="Asset/3.2%20Country%20Comparison%20Dashboard.jpeg" width=800px> </kbd> <br>
+  Picture 4. Country Comparison Dashboard
+</p>
+<br>
 
 
 
