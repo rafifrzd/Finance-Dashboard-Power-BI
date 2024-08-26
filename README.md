@@ -8,7 +8,6 @@
 The data and completion of this project was provided by [ITAAI - Accounting - Analytics - Excel - Power BI YouTube channel](https://www.youtube.com/watch?v=fV0RJBgdp3c&list=PL2kUmMh1BdCXh2590uU78wzpW7GdfzcaF&index=2). The initial dashboard's design was then modified and radically changed in order to create a dashbord that is more comprehensive and easy to understand.
 
 <br>
-<br>
 
 ---
 
