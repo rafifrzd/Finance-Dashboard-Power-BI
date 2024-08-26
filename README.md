@@ -15,6 +15,8 @@ The data and completion of this project was provided by [ITAAI - Accounting - An
 
 Relationship between all the tables were created in order to make the calculation and dashboard creation possible.
 
+<br>
+
 ---
 
 ## **Data Modelling**
@@ -28,6 +30,8 @@ Data Analysis Expressions (DAX) library was used to calculate all financial metr
 * Net Profit
 * Gross Profit Margin
 * Net Profit Margin
+
+<br>
 
 ---
 
