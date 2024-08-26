@@ -11,6 +11,15 @@ The data and completion of this project was provided by [ITAAI - Accounting - An
 
 ---
 
+## **Background**
+Emencee-co Ltd. is a new, multinational company who sells many kinds of goods, which has expanded to 7 countries worldwide.
+
+The management board wants to see the financial details gained from the sales data from 2018-2020. For that reason, the Data Analyst is tasked to create a dashboard using Power BI.
+
+<br>
+
+---
+
 ## **Data Modelling**
 
 Relationship between all the tables were created in order to make the calculation and dashboard creation possible.
